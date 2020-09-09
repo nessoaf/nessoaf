@@ -1,5 +1,13 @@
 ### Hi there 👋
+My name is Nesso (knee-so)!
 
+- 🔭 I’m currently working on A website for an artists that specializes in airbrushing! You should check her out once the site has been completed!
+- 🌱 I’m currently learning everything! Never hurts to rehash the basics everyonce and a while!
+- 📫 How to reach me:
+    - [ ] nessoforest@gmail.com
+    - [ ] https://nesso.dev
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love dogs and try my hardest to be positive in all aspects of my life!
 <!--
 **nessoaf/nessoaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

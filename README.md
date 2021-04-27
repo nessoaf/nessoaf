@@ -2,6 +2,7 @@
 My name is Nesso (knee-so)!
 
 - 🔭 I’m currently working on A website for an artists that specializes in airbrushing! You should check her out once the site has been completed!
+- 😄 I have just completed a teaching (assistant) role at General Assembly for their Winter Seattle Remote immersive course!
 - 🌱 I’m currently learning everything! Never hurts to rehash the basics everyonce and a while!
 - 📫 How to reach me:
     - [ ] nessoforest@gmail.com
